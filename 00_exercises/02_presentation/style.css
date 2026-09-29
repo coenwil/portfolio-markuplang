@@ -1,0 +1,27 @@
+.my-logos {
+  position: fixed;
+  top: 20px;
+  right: 25px;
+  display: flex;
+  align-items: baseline;
+  gap: 35px;
+  z-index: 100;
+}
+
+.cbs-logo {
+  height: 75px;
+  width: auto;
+}
+
+.uu-logo {
+  height: 75px;
+  width: auto;
+}
+
+.dataTables_wrapper {
+  font-size: 60%;
+}
+
+.small-code {
+  font-size: 35%;
+}
